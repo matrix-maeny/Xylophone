@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Xylophone</string>
+    <string name="tune_1">TUNE 1</string>
+    <string name="tune_2">TUNE 2</string>
+    <string name="tune_3">TUNE 3</string>
+    <string name="tune_4">TUNE 4</string>
+    <string name="tune_5">TUNE 5</string>
+    <string name="tune_6">TUNE 6</string>
+    <string name="tune_7">TUNE 7</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis app is a Simple Xylophone. You can play 7 tones.It doesn\'t contain more tones.\n\n\nSerial no: 22\nDate of creation: 5 April 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
